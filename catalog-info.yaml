@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: finmap
+  description: financial data analysis
+spec:
+  owner: group:default/backstage-admins
