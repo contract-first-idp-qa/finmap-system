@@ -1,6 +1,0 @@
-system: finmap
-component: ingestion
-environment: dev
-
-image:
-  tag: latest
